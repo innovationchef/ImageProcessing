@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( DisplayImage )
+find_package( OpenCV REQUIRED )
+add_executable( ps2 ps2.cpp )
+target_link_libraries( ps2 ${OpenCV_LIBS} )

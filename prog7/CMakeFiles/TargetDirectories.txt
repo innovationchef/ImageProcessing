@@ -1,0 +1,1 @@
+/home/ankit/ip/prog7/CMakeFiles/trackbar.dir
